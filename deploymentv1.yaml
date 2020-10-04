@@ -19,3 +19,4 @@ spec:
         name: hello-dep
         ports:
         - containerPort: 8080
+        
